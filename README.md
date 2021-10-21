@@ -25,7 +25,7 @@ _Basic UI design with figma._
 
 ## Featured Projects 🚀
 
-### ![HFood](https://github.com/estebanorlandi4/PI-Food)
+### ![HFood](https://github.com/estebanorlandi4/HFood)
 
 _HFood is an SPA webpage created with React-Redux. 
 Every component was made with pure CSS.
@@ -34,7 +34,7 @@ Some features: Search, sort, filters, and controlled form for the Recipe creatio
 
 Dark | Light
 ----:|:-----
-![](https://github.com/estebanorlandi4/PI-Food/blob/master/images/home_dark.png) | ![](https://github.com/estebanorlandi4/PI-Food/blob/master/images/home_light.png)
+![](https://github.com/estebanorlandi4/HFood/blob/master/images/home_dark.png) | ![](https://github.com/estebanorlandi4/HFood/blob/master/images/home_light.png)
 
 Technologies: React - Redux - CSS - Node - Express - Sequelize - PostgreSQL 
 
