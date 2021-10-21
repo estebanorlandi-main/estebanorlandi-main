@@ -5,10 +5,11 @@
 
 My name is Esteban Orlandi and i'm a Full-Stack Developer with great problem solving capabilities. Right now i’m mostly focused on Front-End but i love all the steps of development.
 
-## My Techs
+## My Skills 📖
 
-CSS - HTML
+### Technologies
 
+![CSS3](https://img.shields.io/badge/CSS3-1e1e1e?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-1e1e1e?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-1e1e1e?style=for-the-badge&logo=Redux&logoColor=764ABC)
@@ -16,7 +17,11 @@ CSS - HTML
 ![Node.js](https://img.shields.io/badge/Node-1e1e1e?style=for-the-badge&logo=Node.js&logoColor=339933)
 ![Sequelize](https://img.shields.io/badge/Sequelize-1e1e1e?style=for-the-badge&logo=Sequelize&logoColor=52B0E7)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e1e?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)
-![Linux](https://img.shields.io/badge/Linux-1e1e1e?style=for-the-badge&logo=Linux&logoColor=FCC624)
+![Linux](https://img.shields.io/badge/Ubuntu-1e1e1e?style=for-the-badge&logo=Ubuntu&logoColor=E95420)
+
+### Design
+
+_Basic UI design with figma._
 
 ## Featured Projects 🚀
 
@@ -33,7 +38,7 @@ Dark | Light
 
 Technologies: React - Redux - CSS - Node - Express - Sequelize - PostgreSQL 
 
-## Let's talk!
+## Let's talk! 📩
 - estebanorlandi4@gmail.com
 - [LinkedIn](https://linkedin.com/in/estebanorlandi4)
 
