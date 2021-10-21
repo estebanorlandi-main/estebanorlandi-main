@@ -5,6 +5,19 @@
 
 My name is Esteban Orlandi and i'm a Full-Stack Developer with great problem solving capabilities. Right now i’m mostly focused on Front-End but i love all the steps of development.
 
+## My Techs
+
+CSS - HTML
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-1e1e1e?style=for-the-badge&logo=React&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-1e1e1e?style=for-the-badge&logo=Redux&logoColor=764ABC)
+![Express](https://img.shields.io/badge/Express-1e1e1e?style=for-the-badge&logo=Express&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node-1e1e1e?style=for-the-badge&logo=Node.js&logoColor=339933)
+![Sequelize](https://img.shields.io/badge/Sequelize-1e1e1e?style=for-the-badge&logo=Sequelize&logoColor=52B0E7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e1e?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)
+![Linux](https://img.shields.io/badge/Linux-1e1e1e?style=for-the-badge&logo=Linux&logoColor=FCC624)
+
 ## Featured Projects 🚀
 
 ### ![HFood](https://github.com/estebanorlandi4/PI-Food)
