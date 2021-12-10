@@ -7,6 +7,8 @@ My name is Esteban Orlandi and i'm a Full-Stack Developer with great problem sol
 
 ## My Skills 📖
 
+🌱 _I’m currently learning TypeScript and Socket.io with a [realtime chat](https://github.com/estebanorlandi4/Realtime-Chat)_
+
 ### Technologies
 
 ![CSS3](https://img.shields.io/badge/CSS3-1e1e1e?style=for-the-badge&logo=CSS3&logoColor=1572B6)
